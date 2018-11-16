@@ -1,2 +1,2 @@
-# Java_Spring_Demo_1
+# Spring Framework Demo - 1
 A simple spring application
